@@ -1,5 +1,35 @@
 ---
-- name: 엘랸 님
+- name: 엘랸
   blog: https://blog.naver.com/PostList.nhn?blogId=elyann
   description: 오지게 깐깐한 엘랸씨
   rss: https://rss.blog.naver.com/elyann.xml
+- name: KZ middle
+  blog: https://blog.naver.com/prologue/PrologueList.nhn?blogId=kzmiddle&categoryNo=28
+  description: Food & Life & Philosophy & Art
+  rss: https://rss.blog.naver.com/kzmiddle.xml
+- name: 곰토
+  blog: https://blog.naver.com/prologue/PrologueList.nhn?blogId=joon960504
+  description: LA VIE EST PLEINE DE PETITS BONHEURS
+  rss: https://rss.blog.naver.com/joon960504.xml
+- name: 딸기우유
+  blog: https://blog.naver.com/PostList.nhn?blogId=wowsohn&parentCategoryNo=19
+  description: 맛있는
+  rss: https://rss.blog.naver.com/wowsohn.xml
+- name: 워니원
+  blog: https://blog.naver.com/prologue/PrologueList.nhn?blogId=lcw6285
+  description: 미국사는 한량
+  rss: https://rss.blog.naver.com/lcw6285.xml
+- name: 녹두장군
+  blog: http://hsong.egloos.com/
+  description: 녹두장군의 식도락
+  rss: http://rss.egloos.com/blog/hsong
+- name: 레드피쉬
+  blog: http://redfish.egloos.com/
+  description: 레드피쉬의 식도락
+  rss: http://rss.egloos.com/blog/redfish
+- name: 비밀이야
+  blog: https://blog.naver.com/mardukas
+  rss: https://rss.blog.naver.com/mardukas.xml
+- name: 스시홀릭
+  blog: https://blog.naver.com/blue85888
+  rss: https://rss.blog.naver.com/blue85888.xml
